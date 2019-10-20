@@ -9,6 +9,8 @@
     
 [更多请自行下载体验,点我](https://www.lanzous.com/i56dj0d)
 
+[完整后台代码,点我](https://github.com/ikimiler/flutter-vjujiao-server)
+
 #### app截图：
 ![https://github.com/ikimiler/flutter-vjujiao/blob/master/picture/WechatIMG1.jpeg](https://github.com/ikimiler/flutter-vjujiao/blob/master/picture/WechatIMG1.jpeg)
     
