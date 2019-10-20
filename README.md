@@ -1,4 +1,4 @@
-# V聚焦
+### V聚焦
 
 纯Flutter构建的一款跨平台app，主要功能包含:
 
@@ -9,11 +9,11 @@
 [更多请自行下载体验,点我](https://www.lanzous.com/i56dj0d)
 
 #### app截图：
-    ![https://github.com/ikimiler/flutter-vjujiao/blob/master/picture/WechatIMG1.jpeg](https://github.com/ikimiler/flutter-vjujiao/blob/master/picture/WechatIMG1.jpeg)
+![https://github.com/ikimiler/flutter-vjujiao/blob/master/picture/WechatIMG1.jpeg](https://github.com/ikimiler/flutter-vjujiao/blob/master/picture/WechatIMG1.jpeg)
     
-    ![https://github.com/ikimiler/flutter-vjujiao/blob/master/picture/WechatIMG2.jpeg](https://github.com/ikimiler/flutter-vjujiao/blob/master/picture/WechatIMG2.jpeg)
+![https://github.com/ikimiler/flutter-vjujiao/blob/master/picture/WechatIMG2.jpeg](https://github.com/ikimiler/flutter-vjujiao/blob/master/picture/WechatIMG2.jpeg)
     
-    ![https://github.com/ikimiler/flutter-vjujiao/blob/master/picture/WechatIMG3.jpeg](https://github.com/ikimiler/flutter-vjujiao/blob/master/picture/WechatIMG3.jpeg)
+![https://github.com/ikimiler/flutter-vjujiao/blob/master/picture/WechatIMG3.jpeg](https://github.com/ikimiler/flutter-vjujiao/blob/master/picture/WechatIMG3.jpeg)
 
 
         
